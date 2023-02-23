@@ -1,3 +1,3 @@
 # hello-world
-Fav color blue
-Fav number 9
+- Fav color blue
+- Fav number 9
